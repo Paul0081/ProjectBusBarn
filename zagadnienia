@@ -1,0 +1,18 @@
+W projekcie należy wykorzystać poznane na zajęciach zagadnienia:
+
+0. Schemat aplikacji wykonany w języku UML - diagram klas.
+1. Deklaracja klasy, zmienne publiczny i prywatne.
+2. Konstruktor z parametrami / destruktor.
+3. Alokacja pamięci - co to jest Garbage Collector?
+4. Dziedziczenie i polimorfizm.
+5. Klasa abstrakcyjna.
+6. Kompozycja.
+7. Przeciążanie funkcji.
+8. Przeciążanie operatorów __str__()
+9. Przeciążanie operatorów przypisania __len__().
+10. Przeciążanie operatorów __add__().
+
+Zagadnienia będą sprawdzane w następujący sposób:
+1. Jest wykorzystane w programie.               0/1pkt
+2. Działa w sposób prawidłowy.                  0/1pkt
+3. Rozumiem jak to działa, kod jest autorski.   0/1pkt
